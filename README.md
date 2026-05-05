@@ -32,7 +32,7 @@ goal: "Become a skilled engineer capable of building
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oussema-hnena-6b1328384/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:oussemahnena111@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://tn.linkedin.com/in/oussema-hnena-6b1328384/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:oussemahnena111@gmail.com) 
 
 
 ## 🛠️ Tech Stack
